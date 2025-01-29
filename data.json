@@ -5,7 +5,7 @@
 			"title": "Session 1",
 			"badge": {
 				"text": "JavaScript + ReactJS",
-				"color": "blue"
+				"color": "orange"
 			},
 			"description": "Introduction to JavaScript + ReactJS fundamentals and basic concepts",
 			"path": "session-1/javascript/index.html",
@@ -13,7 +13,7 @@
 		},
 		{
 			"id": 2,
-			"title": "Session 2 Testing",
+			"title": "Session 2.1 Testing",
 			"badge": {
 				"text": "Testing",
 				"color": "purple"
@@ -26,7 +26,7 @@
 			"title": "Session 2",
 			"badge": {
 				"text": "JavaScript",
-				"color": "green"
+				"color": "orange"
 			},
 			"description": "Deep dive into advanced JavaScript + HTML + CSS concepts",
 			"path": "session-2/index.html",
